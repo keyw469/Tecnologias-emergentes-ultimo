@@ -181,8 +181,6 @@ button {
   transition: background-color 0.3s ease; 
   display: block;
   margin: 0 auto; 
-  padding-bottom: 40px;
-  padding-top: 40px;
 }
 
 button:hover {
@@ -231,4 +229,5 @@ html {
 section { 
   padding-top: 60px;
 } 
+
 
